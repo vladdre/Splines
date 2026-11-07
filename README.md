@@ -13,18 +13,6 @@ A robust MATLAB implementation of custom spline interpolation algorithms, numeri
 
 ---
 
-## Project Structure
-
-```text
-├── src/              # Core MATLAB function files (.m)
-├── examples/         # Script examples and demonstration datasets
-├── tests/            # Validation and numerical accuracy scripts
-├── main.m            # Main execution script
-└── README.md         # Project documentation
-```
-
----
-
 ## Implementation Details
 
 ### 1. Coefficient Calculation
